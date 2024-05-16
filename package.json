@@ -1,0 +1,16 @@
+{
+  "name": "jsfetch",
+  "version": "1.0.0",
+  "description": "`FetchALL` è una semplice utility JavaScript che invia richieste HTTP a più URL e restituisce le informazioni sul loro stato. Questo può essere utile per controllare rapidamente lo stato di più endpoint in una sola volta.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "app": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
