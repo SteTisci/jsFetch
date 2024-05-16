@@ -25,6 +25,8 @@ const fetchURL = async (URL) => {
     };
 };
 ```
+
+### Fetch tutti gli URL
 ```javascript
 export const fetchALL = async (URLS) => {
     const risposte = [];
