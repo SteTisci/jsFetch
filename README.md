@@ -27,6 +27,9 @@ const fetchURL = async (URL) => {
 ```
 
 ### Fetch tutti gli URL
+
+Recupera lo stato di più URL:
+
 ```javascript
 export const fetchALL = async (URLS) => {
     const risposte = [];
